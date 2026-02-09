@@ -8,7 +8,7 @@ This project develops a full digital marketing campaign for Nice Mattresses aime
 # Team members:
 - Eyad Al-Husseini
 - Moaz Elsawy
-- Nad
+- Nad Mahmoud
 - sandy shaheen
 - Youstina Adel
 - Mohamed El Shazly
